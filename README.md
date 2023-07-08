@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<img align="right" alt="coding" whith="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
+<img align="right" alt="coding" whith="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb5iCK0gjfk9Akkx-idrYlPWDgL67eB4yu8Sjq1cZzo7A5Bpvs2pUTYoRx_SoObYU7nZU&usqp=CAU">
 
 - 🔭 I’m currently working on **IJSE**
 
