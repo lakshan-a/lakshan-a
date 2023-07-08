@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<img align="right" alt="coding" whith="400" src="https://github.com/NimeshPiyumantha/red-alpha/blob/main/github-contribution-grid-snake.svg">
+<img align="right" alt="https://github.com/SavindaJayasekara/SavindaJayasekara/assets/124574201/7f63fe15-87e6-48ce-a7e5-4f66528d426d">
 
 - 🔭 I’m currently working on **IJSE**
 
@@ -39,3 +39,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lakshan-a&show_icons=true&locale=en" alt="lakshan-a" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshan-a&" alt="lakshan-a" /></p>
+
+<img alt="Coding" width="900" src="https://github.com/NimeshPiyumantha/red-alpha/blob/main/github-contribution-grid-snake.svg">
