@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<img align="right" alt="https://github.com/SavindaJayasekara/SavindaJayasekara/assets/124574201/7f63fe15-87e6-48ce-a7e5-4f66528d426d">
+<img align="right" alt="https://github.com/SavindaJayasekara/SavindaJayasekara/assets/124574201/68aad618-1511-482e-8a5c-93e9dc9d3646">
 
 - 🔭 I’m currently working on **IJSE**
 
