@@ -20,7 +20,7 @@
 
 - 🤝 I’m looking for help with **Front-end**
 
-- 💬 Ask me about **java / python / mysql / html / css / php**
+- 💬 Ask me about **java , python , mysql , html , css , php**
 
 - ⚡ Fun fact **I am Funny**
 
