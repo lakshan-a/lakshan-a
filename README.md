@@ -43,13 +43,6 @@
   </div>
 </div>
 
-<div>
-  <div align="center"> 
-  
-![image](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/3e927334-5d58-439b-88a7-58414591d14e)
-</div>
-</div>
-
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/3b2e5a98-a768-4020-a3f4-2c870007a58f)
 
