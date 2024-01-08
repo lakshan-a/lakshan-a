@@ -5,7 +5,7 @@
 </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=punchihew&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=lakshan-a&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 - 🔭 I’m currently working on **IJSE**
