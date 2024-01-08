@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Lakshan Rshmika</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=HI+I'm+Lakshan+Rashmika;Competitive+Programmer;IJSE+GDSE+Student;Java%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
-</p><br>
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=punchihew&theme=radical&no-frame=false&no-bg=true&margin-w=4)
