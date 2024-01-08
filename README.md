@@ -36,9 +36,9 @@
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=LahiruHarshana&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=LahiruHarshana&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LahiruHarshana&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=punchihew&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=punchihew&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=punchihew&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
   </div>
 </div>
