@@ -36,12 +36,23 @@
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=lakshan-a&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=lakshan-aw&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshan-a&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api?username=LahiruHarshana&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=LahiruHarshana&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LahiruHarshana&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
   </div>
+</div>
+
+<div>
+  <div align="center"> 
+  
+![image](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/3e927334-5d58-439b-88a7-58414591d14e)
+</div>
+</div>
+
+<div align="center"> 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=25&duration=4000&color=13F700&background=EB00FF00&center=true&vCenter=true&width=250&lines=Software+Designer;Developer;UI%2FUX++Designer;Gamer;Photographer;Youtuber)](https://git.io/typing-svg)
 </div>
 
 
