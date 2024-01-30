@@ -8,8 +8,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=lakshan-a&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <p align="center">
-    <img src="https://github.com/SavindaJayasekara/SavindaJayasekara/assets/124574201/7f63fe15-87e6-48ce-a7e5-4f66528d426d)"      
-      alt="Savinda" width="160" height="160">
+    <img align="right" src="https://github.com/DewmithMihisara/DewmithMihisara/assets/124574193/e80d54d4-27eb-45d2-b569-37a939bf7428"         alt="img" width="250">
 </p>
 
 
