@@ -7,6 +7,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=lakshan-a&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/3b2e5a98-a768-4020-a3f4-2c870007a58f)
+
+
 <p align="center">
     <img align="right" src="https://github.com/DewmithMihisara/DewmithMihisara/assets/124574193/e80d54d4-27eb-45d2-b569-37a939bf7428"            alt="img" width="250">
 </p>
