@@ -7,6 +7,12 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=lakshan-a&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+<p align="center">
+    <img src="https://github.com/SavindaJayasekara/SavindaJayasekara/assets/124574201/7f63fe15-87e6-48ce-a7e5-4f66528d426d)"      
+      alt="Savinda" width="160" height="160">
+</p>
+
+
 
 - 🔭 I’m currently working on **IJSE**
 
