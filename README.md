@@ -3,8 +3,10 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=HI+I'm+Lakshan+Rashmika;Competitive+Programmer;IJSE+GDSE+Student;Java%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
-<img src="https://komarev.com/ghpvc/?username=lakshan-a&label=Profile%20views&color=0e75b6&style=flat" alt="lakshan" />
+[![committers.top badge](https://user-badge.committers.top/sri_lanka/lakshan-a.svg)](https://user-badge.committers.top/sri_lanka/lakshan-a)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshan-a&label=Profile%20views&color=0e75b6&style=flat" alt="lakshan-a" /> </p>
 
+<img src="https://komarev.com/ghpvc/?username=lakshan-a&label=Profile%20views&color=0e75b6&style=flat" alt="lakshan" />
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=lakshan-a&theme=radical&no-frame=false&no-bg=true&margin-w=4)
